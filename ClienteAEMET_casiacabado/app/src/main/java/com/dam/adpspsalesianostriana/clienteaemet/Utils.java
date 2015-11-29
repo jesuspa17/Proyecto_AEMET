@@ -76,6 +76,9 @@ public class Utils {
             case "Cubierto con lluvia":
                 imagen = R.drawable.nub_conlluvia;
                 break;
+            case "Cubierto con lluvia escasa":
+                imagen = R.drawable.nub_conlluvia;
+                break;    
             case "Intervalos nubosos con nieve":
                 imagen = R.drawable.inter_nub_nieve;
                 break;
