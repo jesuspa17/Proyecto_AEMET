@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="60dp">
+
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteCiudad"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:ems="10"
+        android:hint="Introduzca su ciudad"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:textSize="20dp">
+        <requestFocus/>
+
+    </AutoCompleteTextView>
+
+
+</LinearLayout><!-- From: file:/C:/Users/jpallares/Desktop/ClienteAEMET_casiacabado/app/src/main/res/layout/auto_complete.xml -->

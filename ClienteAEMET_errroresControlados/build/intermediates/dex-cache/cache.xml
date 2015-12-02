@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-b5661bdc89d75a9af0506b458c3c01cfe230a36b.jar" />
+    </item>
+    <item
+        jar="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\pre-dexed\debug\classes-16ed8fc0fb1110261d21819a59fcae05b9ec96fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\jpallares\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\pre-dexed\debug\library-1.0.19-2d9a248484253c412e89e00e486378099e93036c.jar" />
+    </item>
+    <item
+        jar="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\pre-dexed\debug\classes-460be9eb0dfa666f417f4865280d64504ea76395.jar" />
+    </item>
+    <item
+        jar="C:\Users\jpallares\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-1ed0ef78f7b9e65e5613d53fa8ea152a36a80c39.jar" />
+    </item>
+    <item
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-51f70905872826a9aa90c370a9b3bf8e815ae003.jar" />
+    </item>
+    <item
+        jar="C:\Users\jpallares\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\pre-dexed\debug\simple-xml-2.7.1-787dca9659e9b4c45e1ba975cf2f5c772008969c.jar" />
+    </item>
+    <item
+        jar="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\pre-dexed\debug\classes-14d40eefff4d41e4f750853b7d1b13d7d78ffc75.jar" />
+    </item>
+    <item
+        jar="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\pre-dexed\debug\classes-ac9e72bfc98b92e42431386173da33679e29eec5.jar" />
+    </item>
+    <item
+        jar="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\jpallares\Desktop\ClienteAEMET_casiacabado\app\build\intermediates\pre-dexed\debug\classes-1691dc0e4e99cb0cb75cd485f94a6baaa858e3c5.jar" />
+    </item>
+
+</items>
